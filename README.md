@@ -43,6 +43,9 @@ The user is prompted to make a move using one of four letters:
 * **w**: rotates block counter clockwise
 * **s**: rotates block clockwise
 
+### Gameplay
+
+![Gameplay](gameplay.png)
 
 ### Running
 
